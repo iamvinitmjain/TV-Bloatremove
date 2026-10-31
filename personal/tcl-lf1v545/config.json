@@ -1,0 +1,25 @@
+{
+  "dock_apps": [
+    "com.tcl.tv",
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "in.startv.hotstar"
+  ],
+  "columns": 4,
+  "fill_dock": false,
+  "launch_actions": [
+    "com.tcl.tv=input:REPLACE_WITH_HDMI1_INPUT_ID"
+  ],
+  "background_color": "#090C14",
+  "wallpaper": true,
+  "cinematic_home": true,
+  "dock_glass": true,
+  "icon_only_buttons": true,
+  "app_glow": true,
+  "glow_style": "horizon",
+  "focus_overshoot": false,
+  "advanced_effects": true,
+  "show_greeting": true,
+  "greeting_name": "Vinit",
+  "power_on_home_always": true
+}
